@@ -1,4 +1,4 @@
-print("Creating Class")
+print("Creating Classes")
 class Linkedlistyboi():
 	def __init__(self):
 		print("Linkedlistyboi Initialised")
